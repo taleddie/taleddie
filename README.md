@@ -92,6 +92,16 @@ Currently, I am developing small projects to practice and improve my skills — 
 
 ###
 
+<h2 align="center"><b>Statistics</b></h2>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f8bbd0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=f8bbd0"  />
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f8bbd0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=f8bbd0"  />
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=taleddie&radius=16&theme=dracula&area=true&order=5&bg_color=0D1117&point=f970a0&line=f8bbd0&custom_title=Eduarda's%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
