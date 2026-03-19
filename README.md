@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">Linguagens Front-end</h4>
+<h4 align="left">Linguagens Front-end e Back-end</h4>
 
 ###
 
@@ -31,13 +31,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
-###
-
-<h4 align="left">Linguagens Back-end</h4>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
