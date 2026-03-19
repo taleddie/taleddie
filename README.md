@@ -34,9 +34,9 @@ Atualmente, estou desenvolvendo pequenos projetos para praticar e evoluir minhas
 
 ###
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td align="center" width="300" style="border: none;">
+    <td align="center" valign="top" width="300">
       <h4>Linguagens Front-end e Back-end</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
       <img width="12"/>
@@ -51,14 +51,14 @@ Atualmente, estou desenvolvendo pequenos projetos para praticar e evoluir minhas
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
     </td>
 
-  <td align="center" width="200" style="border: none;">
+  <td align="center" valign="top" width="200">
       <h4>Mobile</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
       <img width="12"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
     </td>
 
-  <td align="center" width="200" style="border: none;">
+  <td align="center" valign="top" width="200">
       <h4>UX/UI</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
       <img width="12"/>
