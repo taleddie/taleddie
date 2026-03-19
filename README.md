@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="200" src="https://i.pinimg.com/1200x/f4/6b/35/f46b35242029bd1913f43c82781bcd50.jpg"  />
 </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-a-744b7138a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f8bbd0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=eduardaalcsantos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f8bbd0&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
