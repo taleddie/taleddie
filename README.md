@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/alcanntarx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alcanntarx" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
 ###
 
 <h4 align="left">Linguagens Front-end</h4>
@@ -85,11 +81,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taleddie/taleddie/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/taleddie/taleddie/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=taleddie.taleddie&"  />
-</div>
 
 ###
