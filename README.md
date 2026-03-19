@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"><b>Sobre mim </b></h2>
 
 ###
 
