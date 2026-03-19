@@ -36,7 +36,9 @@ Atualmente, estou desenvolvendo pequenos projetos para praticar e evoluir minhas
 
 <div align="center">
 
-<div style="display: inline-block; vertical-align: top; width: 30%; text-align: center;">
+<div align="center" width="100%">
+
+<div style="display: inline-block; vertical-align: top; min-width: 250px; max-width: 300px; margin: 10px;">
   <h4>Linguagens Front-end e Back-end</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="12"/>
@@ -51,20 +53,21 @@ Atualmente, estou desenvolvendo pequenos projetos para praticar e evoluir minhas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 </div>
 
-<div style="display: inline-block; vertical-align: top; width: 30%; text-align: center;">
+<div style="display: inline-block; vertical-align: top; min-width: 200px; max-width: 250px; margin: 10px;">
   <h4>Mobile</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
 </div>
 
-<div style="display: inline-block; vertical-align: top; width: 30%; text-align: center;">
+<div style="display: inline-block; vertical-align: top; min-width: 200px; max-width: 250px; margin: 10px;">
   <h4>UX/UI</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
 </div>
 
+</div>
 </div>
 
 ###
