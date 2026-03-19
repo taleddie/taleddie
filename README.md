@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Eu sou Maria Eduarda Alcântara</h3>
-
-<h3 align="left">Fale comigo:</h3>
-<p align="left">
-<a href="https://instagram.com/alcanntarx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alcanntarx" height="30" width="40" /></a>
-</p>
+<h3 align="center">Eu sou Maria Eduarda Alcântara!</h3>
+<p>Cursando Desenvolvimento de Sistemas na ETEC Zona Leste.</p>
 
 ###
 
