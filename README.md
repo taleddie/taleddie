@@ -1,4 +1,4 @@
-## Bem-vindo! 👋
+## <h2 align="center">Bem-vindo! 👋 </h2>
 
 <!--
 **taleddie/taleddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Eu sou Maria Eduarda Alcântara!</h3>
+<h3 align="left">Eu sou Maria Eduarda Alcântara!</h3>
 <p>Cursando Desenvolvimento de Sistemas na ETEC Zona Leste.</p>
 
 ###
