@@ -34,7 +34,7 @@ Atualmente, estou desenvolvendo pequenos projetos para praticar e evoluir minhas
 
 ###
 
-<table align="center" border="0">
+<table align="center" border="none">
   <tr>
     <td align="center" valign="top" width="300">
       <h4>Linguagens Front-end e Back-end</h4>
