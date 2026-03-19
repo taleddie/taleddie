@@ -87,6 +87,19 @@ Currently, I am developing small projects to practice and improve my skills — 
      <img width="12" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
     </td>
+
+  <td>
+    <div align="center" valign="top" width="200">
+    <h4>Others</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"   height="40" alt="git logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+    </div>
+  </td>
   </tr>
 </table>
 
@@ -95,13 +108,12 @@ Currently, I am developing small projects to practice and improve my skills — 
 ###
 
 <h2 align="center"><b>Statistics</b></h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f8bbd0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=f8bbd0"  />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taleddie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
-</div>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f8bbd0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=f8bbd0"  />
 </div>
 
 <div align="center">
