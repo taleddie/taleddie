@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 <img src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Me chamo Maria Eduarda, estudante do ensino médio técnico em <b>Desenvolvimento de Sistemas</b> na <b>ETEC Zona Leste</b>. Gosto de explorar diferentes áreas da programação e aprender novas tecnologias ao longo do caminho.
+</br>
+Atualmente, estou desenvolvendo pequenos projetos para praticar e evoluir minhas habilidades, você pode os encontrar aqui no meu GitHub. Ainda estou descobrindo com o que mais me identifico, então estou aberta tanto ao front-end quanto ao back-end.
 </p>
 
 ###
