@@ -92,3 +92,7 @@ Currently, I am developing small projects to practice and improve my skills — 
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taleddie&radius=16&theme=dracula&area=true&order=5&bg_color=0D1117&point=f970a0&line=f8bbd0&custom_title=Eduarda's%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
+</div>
+
