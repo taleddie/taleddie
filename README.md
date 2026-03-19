@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 
 <h2 align="center"><b>About me </b></h2>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f8bbd0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=f8bbd0"  />
+</div>
+
 <img src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 <p>
