@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 ###
 
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+
+###
+
 <h4 align="left">Linguagens Front-end e Back-end</h4>
 
 ###
