@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h2 align="center"><b>Sobre mim </b></h2>
 
-<img src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" width="250" align="right" style="margin-left: 20px;" />
+<img margin="30px" src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 <p>
   Me chamo Maria Eduarda, estudante do ensino médio técnico em <b>Desenvolvimento de Sistemas</b> na <b>ETEC Zona Leste</b>. Gosto de explorar diferentes áreas da programação e aprender novas tecnologias ao longo do caminho.
