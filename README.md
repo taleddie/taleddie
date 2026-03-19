@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="200" src="https://i.pinimg.com/1200x/f4/6b/35/f46b35242029bd1913f43c82781bcd50.jpg"  />
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/maria-eduarda-a-744b7138a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=eduardaalcsantos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  </a>
+</div>
 
 </br>
 
@@ -83,19 +91,3 @@ Currently, I am developing small projects to practice and improve my skills — 
 
 ###
 
-<h2 align="center"><b>Contact me! </b></h2>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f8bbd0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=f8bbd0"  />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-a-744b7138a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=eduardaalcsantos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
