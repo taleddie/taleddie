@@ -90,12 +90,14 @@ Currently, I am developing small projects to practice and improve my skills — 
   </tr>
 </table>
 
+</br>
+
 ###
 
 <h2 align="center"><b>Statistics</b></h2>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f8bbd0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=f8bbd0"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taleddie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 <div>
