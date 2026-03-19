@@ -55,9 +55,9 @@ Currently, I am developing small projects to practice and improve my skills — 
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f8bbd0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=f8bbd0"  />
 </div>
 
-<table align="center" border="0">
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="300">
+    <td align="center" valign="top" width="250">
       <h4>Languages & Technologies</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
       <img width="12"/>
@@ -72,34 +72,32 @@ Currently, I am developing small projects to practice and improve my skills — 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
     </td>
 
-  <td align="center" valign="top" width="200">
+   <td align="center" valign="top" width="200">
       <h4>Mobile</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
       <img width="12"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
     </td>
 
-  <td align="center" valign="top" width="200">
+   <td align="center" valign="top" width="250">
       <h4>UX/UI Design & Prototyping</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
       <img width="12"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
-     <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+      <img width="12"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
     </td>
 
-  <td>
-    <div align="center" valign="top" width="200">
-    <h4>Others</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"   height="40" alt="git logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-    </div>
-  </td>
+   <td align="center" valign="top" width="250">
+      <h4>Others</h4>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+      <img width="12"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
+      <img width="12"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+      <img width="12"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+    </td>
   </tr>
 </table>
 
