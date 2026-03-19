@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br/>
 <p>
   Me chamo Maria Eduarda, estudante do ensino médio técnico em <b>Desenvolvimento de Sistemas</b> na <b>ETEC Zona Leste</b>. Gosto de explorar diferentes áreas da programação e aprender novas tecnologias ao longo do caminho.
-</br>
+</br></br>
 Atualmente, estou desenvolvendo pequenos projetos para praticar e evoluir minhas habilidades, você pode os encontrar aqui no meu GitHub. Ainda estou descobrindo com o que mais me identifico, então estou aberta tanto ao front-end quanto ao back-end.
 </p>
 
