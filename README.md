@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <p>
   My name is Maria Eduarda, a technical high school student in <b>Systems Development</b> at <b>ETEC Zona Leste</b>. I enjoy exploring different areas of programming and learning new technologies along the way.
 </br></br>
-Currently, I am developing small projects to practice and improve my skills — you can find them here on my GitHub. I am still discovering what I enjoy the most, so I am open to both front-end and back-end development.
+Currently, I am developing small projects to practice and improve my skills, you can find them here on my GitHub. I am still discovering what I enjoy the most, so I am open to both front-end and back-end development.
 </p>
 
 </br>
