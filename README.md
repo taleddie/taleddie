@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="center"><b>Sobre mim </b></h2>
+<h2 align="center"><b>About me </b></h2>
 
 <img src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 <p>
-  Me chamo Maria Eduarda, estudante do ensino médio técnico em <b>Desenvolvimento de Sistemas</b> na <b>ETEC Zona Leste</b>. Gosto de explorar diferentes áreas da programação e aprender novas tecnologias ao longo do caminho.
+  My name is Maria Eduarda, a technical high school student in <b>Systems Development</b> at <b>ETEC Zona Leste</b>. I enjoy exploring different areas of programming and learning new technologies along the way.
 </br></br>
-Atualmente, estou desenvolvendo pequenos projetos para praticar e evoluir minhas habilidades, você pode os encontrar aqui no meu GitHub. Ainda estou descobrindo com o que mais me identifico, então estou aberta tanto ao front-end quanto ao back-end.
+Currently, I am developing small projects to practice and improve my skills — you can find them here on my GitHub. I am still discovering what I enjoy the most, so I am open to both front-end and back-end development.
 </p>
 
 </br>
@@ -38,10 +38,14 @@ Atualmente, estou desenvolvendo pequenos projetos para praticar e evoluir minhas
 
 <h2 align="center"><b>Skills </b></h2>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f8bbd0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=f8bbd0"  />
+</div>
+
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top" width="300">
-      <h4>Linguagens Front-end e Back-end</h4>
+      <h4>Languages & Technologies</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
       <img width="12"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
@@ -63,10 +67,12 @@ Atualmente, estou desenvolvendo pequenos projetos para praticar e evoluir minhas
     </td>
 
   <td align="center" valign="top" width="200">
-      <h4>UX/UI</h4>
+      <h4>UX/UI Design & Prototyping</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
       <img width="12"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
+     <img width="12" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
     </td>
   </tr>
 </table>
