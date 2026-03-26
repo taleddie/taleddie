@@ -1,23 +1,9 @@
-
-<!--
-**taleddie/taleddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- HEADER -->
 <div align="center">
   <img height="200" src="https://i.pinimg.com/1200x/f4/6b/35/f46b35242029bd1913f43c82781bcd50.jpg"  />
 </div>
 
+<!-- SOCIAL -->
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-a-744b7138a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f8bbd0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -29,7 +15,9 @@ Here are some ideas to get you started:
 
 </br>
 
-###
+---
+
+### About me
 
 <h2 align="center"><b>About me </b></h2>
 
@@ -47,7 +35,9 @@ Currently, I am developing small projects to practice and improve my skills, you
 
 </br>
 
-###
+---
+
+### Skills
 
 <h2 align="center"><b>Skills </b></h2>
 
@@ -102,9 +92,12 @@ Currently, I am developing small projects to practice and improve my skills, you
 
 </br>
 
-###
+---
+
+### Statistics
 
 <h2 align="center"><b>Statistics</b></h2>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=f8bbd0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=f8bbd0"  />
 </div>
@@ -116,4 +109,3 @@ Currently, I am developing small projects to practice and improve my skills, you
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=taleddie&radius=16&theme=dracula&area=true&order=5&bg_color=0D1117&point=f970a0&line=f8bbd0&custom_title=Eduarda's%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-
