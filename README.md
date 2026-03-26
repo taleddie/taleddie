@@ -46,41 +46,41 @@ Currently, I am developing small projects to practice and improve my skills, you
     <td align="center" valign="top" width="250">
       <h4>Languages & Technologies</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-      <img width="12"/>
+      <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-      <img width="12"/>
+      <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-      <img width="12"/>
+      <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-      <img width="12"/>
+      <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
     </td>
 
    <td align="center" valign="top" width="200">
       <h4>Mobile</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
-      <img width="12"/>
+      <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
     </td>
 
    <td align="center" valign="top" width="250">
       <h4>UX/UI Design & Prototyping</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-      <img width="12"/>
+      <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
-      <img width="12"/>
+      <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
     </td>
 
    <td align="center" valign="top" width="250">
       <h4>Others</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-      <img width="12"/>
+      <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
-      <img width="12"/>
+      <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-      <img width="12"/>
+      <img width="10"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
     </td>
   </tr>
