@@ -86,8 +86,5 @@ Currently, I am developing small projects to practice and improve my skills, you
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taleddie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
-</div>
 
 
